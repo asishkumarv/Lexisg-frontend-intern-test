@@ -24,7 +24,7 @@ npm start
 
 Open http://localhost:3000 to view the app.
 
-Screenshots :
+🖼️Screenshots :
 
 ![UI Screenshot](./lexisg-frontend-intern-test/images/screenshot(352).png)
 ![UI Screenshot1](./lexisg-frontend-intern-test/images/screenshot(353).png)
