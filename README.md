@@ -34,6 +34,8 @@ Open http://localhost:3000 to view the app.
 ### Answer Panel Display
 ![UI Screenshot1](./lexisg-frontend-intern-test/images/Screenshot2.png)
 
+### Demo Video
+![UI Video](./lexisg-frontend-intern-test/images/demo.gif)
 
 
 🔗 Citation Linking Explanation
