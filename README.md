@@ -24,7 +24,11 @@ npm start
 
 Open http://localhost:3000 to view the app.
 
+Screenshots :
 
+![UI Screenshot](./images/screenshot(352).png)
+(./images/screenshot(353).png)
+(./images/screenshot(354).png)
 
 🔗 Citation Linking Explanation
 
