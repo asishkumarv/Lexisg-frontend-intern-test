@@ -26,9 +26,9 @@ Open http://localhost:3000 to view the app.
 
 🖼️Screenshots :
 
-![UI Screenshot](./lexisg-frontend-intern-test/images/screenshot(352).png)
-![UI Screenshot1](./lexisg-frontend-intern-test/images/screenshot(353).png)
-![UI Screenshot2](./lexisg-frontend-intern-test/images/screenshot(354).png)
+![UI Screenshot](./lexisg-frontend-intern-test/images/Screenshot(352).png)
+![UI Screenshot1](./lexisg-frontend-intern-test/images/Screenshot(353).png)
+![UI Screenshot2](./lexisg-frontend-intern-test/images/Screenshot(354).png)
 
 🔗 Citation Linking Explanation
 
