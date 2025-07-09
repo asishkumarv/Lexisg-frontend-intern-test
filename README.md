@@ -1,10 +1,10 @@
 # Lexisg-frontend-intern-test
 
-Lexisg-frontend-intern-test
+## Lexisg-frontend-intern-test
 
 This is a minimal, responsive frontend interface simulating Lexi Legal Assistant, built with React.js. It allows users to ask legal questions, view AI-generated answers, and trace citations to their original legal documents.
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 
 Clone this repository:
 
@@ -38,7 +38,7 @@ Open http://localhost:3000 to view the app.
 ![UI Video](./lexisg-frontend-intern-test/images/demo.gif)
 
 
-🔗 Citation Linking Explanation
+## 🔗 Citation Linking Explanation
 
 Each answer includes a citation box showing the relevant paragraph of legal reference.
 
@@ -57,7 +57,7 @@ When the user clicks the citation link, it opens the document in a new browser t
 
 While real scroll-to-para or highlighting isn't possible without PDF.js or backend integration, this simulates Lexi's traceability by directing users to the source.
 
-📁 Tech Stack
+## 📁 Tech Stack
 
 React.js (Create React App)
 
