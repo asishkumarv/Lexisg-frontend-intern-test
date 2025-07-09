@@ -27,10 +27,14 @@ Open http://localhost:3000 to view the app.
 🖼️Screenshots :
 ### Main Interface
 ![UI Screenshot](./lexisg-frontend-intern-test/images/Screenshot1.png)
+
+### Input Panel Display
+![UI Screenshot2](./lexisg-frontend-intern-test/images/Screenshot3.png)
+
 ### Answer Panel Display
 ![UI Screenshot1](./lexisg-frontend-intern-test/images/Screenshot2.png)
 
-![UI Screenshot2](./lexisg-frontend-intern-test/images/Screenshot3.png)
+
 
 🔗 Citation Linking Explanation
 
